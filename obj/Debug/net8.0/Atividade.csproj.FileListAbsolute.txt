@@ -12,3 +12,4 @@ C:\Users\giova\Desktop\Atividade\obj\Debug\net8.0\refint\Atividade.dll
 C:\Users\giova\Desktop\Atividade\obj\Debug\net8.0\Atividade.pdb
 C:\Users\giova\Desktop\Atividade\obj\Debug\net8.0\Atividade.genruntimeconfig.cache
 C:\Users\giova\Desktop\Atividade\obj\Debug\net8.0\ref\Atividade.dll
+C:\Users\giova\Desktop\Atividade\obj\Debug\net8.0\Atividade.sourcelink.json

@@ -1,10 +1,12 @@
 public class Student : IUser
 {
     public string Name { get; set; }
+    public Double Nota {get; set;}
 
-    public Student(string name)
+    public Student(string name, double nota)
     {
         Name = name;
+        Nota = nota;
     }
 
     public void Update(Notification notification)
@@ -13,6 +15,7 @@ public class Student : IUser
         {
 
             Console.WriteLine($"{Name} recebeu a notificação sobre o TCC.");
+            
         }
         else
         {
