@@ -1,0 +1,21 @@
+<div class="admin-page">
+    <h1>Administração do Hotel</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Quarto</th>
+                <th>Status</th>
+                <th>Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let quarto of quartos">
+                <td>{{ quarto.numero }}</td>
+                <td>{{ quarto.status }}</td>
+                <td>
+                    <button>Cancelar Reserva</button>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>

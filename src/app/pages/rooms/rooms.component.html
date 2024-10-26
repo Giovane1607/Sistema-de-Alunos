@@ -1,0 +1,15 @@
+<div class="reservas-container">
+  <h1 class="reservas-title">Reservas</h1>
+  <p class="welcome-message">Bem-vindo à nossa seleção de quartos!</p>
+  <p class="welcome-description">Aqui você pode encontrar uma variedade de quartos disponíveis para sua estadia.</p>
+  
+  <div class="room-list">
+    <div class="room-card" *ngFor="let room of rooms">
+      <img [src]="room.imageUrl" alt="{{ room.title }}" class="room-image">
+      <h2>{{ room.title }}</h2>
+      <p>{{ room.description }}</p>
+      <p class="room-price">{{ room.price }}</p>
+      <button class="reservation-button">Reservar</button>
+    </div>
+  </div>
+</div>
