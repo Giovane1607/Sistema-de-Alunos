@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\giova\\Desktop\\Atividade\\Atividade.csproj",
+      "projectUniqueName": "C:\\Users\\giova\\Desktop\\Hotel\\Sistema-de-Alunos\\Atividade.csproj",
       "projectName": "Atividade",
-      "projectPath": "C:\\Users\\giova\\Desktop\\Atividade\\Atividade.csproj",
+      "projectPath": "C:\\Users\\giova\\Desktop\\Hotel\\Sistema-de-Alunos\\Atividade.csproj",
       "packagesPath": "C:\\Users\\giova\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\giova\\Desktop\\Atividade\\obj\\",
+      "outputPath": "C:\\Users\\giova\\Desktop\\Hotel\\Sistema-de-Alunos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\giova\\AppData\\Roaming\\NuGet\\NuGet.Config"
